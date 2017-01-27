@@ -1,5 +1,6 @@
 body {
   background-color: rgb(217, 217, 217);
+  font-family: ormont;
 }
 
 .well {
@@ -11,24 +12,39 @@ body {
   padding-top: 0px;
 }
 
-li {
-  font-family: ormont;
+ul li {
   list-style-type:circle;
+  padding-top: 20px
 }
 
-p {
-  font-family: ormont;
+ol li {
+  list-style-type: lower-roman;
 }
 
 h1 {
   font-family: the woodlands;
   text-decoration: underline;
+  font-size: 45px
+}
+
+.indent {
+  padding-left: 15px;
+}
+
+.contact {
+  font-size: 18px;
+}
+
+.order {
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(10, 10, 10);
 }
 
 #header {
   text-align: center;
   font-family: the woodlands;
-  font-size: 80px;
+  font-size: 100px;
   color: rgba(200, 200, 200, 0.8);
   font-weight: normal;
 }
@@ -42,7 +58,7 @@ h1 {
 }
 
 #self img{
-  height: 450px;
+  height: 475px;
 }
 
 #intro {
