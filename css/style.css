@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(217, 217, 217);
+}
+
+.well {
+  background: rgb(210, 210, 210);
+  border-bottom: solid;
+  border-right: solid;
+  border-color: rgb(180,180,180);
+}
+
+#header {
+  text-align: center;
+  font-family: the woodlands;
+  font-size: 50px;
+  color: rgba(50, 50, 50, 0.8);
+}
+
+#self {
+  text-align: center;
+}
+
+#headrow {
+  padding-top: 20px;
+}
