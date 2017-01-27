@@ -3,17 +3,34 @@ body {
 }
 
 .well {
-  background: rgb(210, 210, 210);
+  /*background: rgb(100, 100, 100);*/
+  background: rgba(35, 43, 28, 0.9);
   border-bottom: solid;
   border-right: solid;
   border-color: rgb(180,180,180);
+  padding-top: 0px;
+}
+
+li {
+  font-family: ormont;
+  list-style-type:circle;
+}
+
+p {
+  font-family: ormont;
+}
+
+h1 {
+  font-family: the woodlands;
+  text-decoration: underline;
 }
 
 #header {
   text-align: center;
   font-family: the woodlands;
-  font-size: 50px;
-  color: rgba(50, 50, 50, 0.8);
+  font-size: 80px;
+  color: rgba(200, 200, 200, 0.8);
+  font-weight: normal;
 }
 
 #self {
@@ -22,4 +39,14 @@ body {
 
 #headrow {
   padding-top: 20px;
+}
+
+#self img{
+  height: 450px;
+}
+
+#intro {
+  color: rgba(230, 230, 230, 0.7);
+  text-align: center;
+  font-weight: bold;
 }
