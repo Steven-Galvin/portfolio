@@ -3,6 +3,13 @@ body {
   font-family: ormont;
 }
 
+@font-face {
+  font-family: ormont;
+  src: url(ormont_light.tff);
+  font-family: the woodlands;
+  src: url(thewoodlands-regular.otf);
+}
+
 .well {
   background: rgba(35, 43, 28, 0.9);
   border-bottom: solid;
