@@ -4,7 +4,6 @@ body {
 }
 
 .well {
-  /*background: rgb(100, 100, 100);*/
   background: rgba(35, 43, 28, 0.9);
   border-bottom: solid;
   border-right: solid;
@@ -51,6 +50,11 @@ h1 {
   border-style: double;
 }
 
+.hobbie {
+  font-size: 15px;
+  font-weight: bold;
+}
+
 #header {
   text-align: center;
   font-family: the woodlands;
@@ -79,7 +83,8 @@ h1 {
 
 #right {
   float: right;
-  width: 60%
+  width: 60%;
+  font-size: 13px;
 }
 
 #notice {

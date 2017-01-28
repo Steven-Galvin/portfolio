@@ -6,7 +6,7 @@
 
 ## Description
 
-Just a very simple web design portfolio. It is designed to be an easy to read way to get to know a little about me and see some of my past work. It's very basic right now as I am only a beginner, but it will improve as I learn and develop more advanced skills in web design. Fairly simple to navigate as I only have an About Me section, four links to other works with a small description of each, and a contact section with links to my Facebook, Twitter, and Instagram.
+Just a very simple web design portfolio. It is designed to be an easy to read way to get to know a little about me and see some of my past work. It's very basic right now as I am only a beginner, but it will improve as I learn and develop more advanced skills in web design. Fairly simple to navigate as I only have an About Me section, four links to other works with a small description of each, and a contact section with links to my Facebook, Twitter, and Instagram as well as a hyperlink to send me an email.
 
 ## Setup/Installation Requirements
 
