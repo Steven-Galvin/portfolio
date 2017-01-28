@@ -15,9 +15,9 @@ Setup is easy. All you need is:
 * Your text editor of choice if you want to open up and play with my code.
 * Latest versions of Google Chrome or Safari recommended as those are what I tested on.
 
-## Known Bugs
+## Link to Github Pages
 
-No known bugs as of yet.
+https://steven-galvin.github.io/portfolio/
 
 ## Support and contact details
 
